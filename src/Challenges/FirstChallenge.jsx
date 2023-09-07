@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from './Images/logo192.png';
+import Logo from './Images/reactjs-icon.svg';
 import secLogo from './Images/reactjs-icon 2.svg';
 import './First.css';
 
