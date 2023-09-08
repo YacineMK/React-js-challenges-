@@ -16,7 +16,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/YacineMK/React-js-challenges-.git>
 
     Install the necessary dependencies:
 
@@ -36,3 +36,4 @@ Challenges
 
 Inside this repository, you will find solutions to various React challenges presented in FreeCodeCamp videos. Each challenge is organized into separate files for easy reference.
 
+```video link : https://www.youtube.com/watch?v=bMknfKXIFA8&t=1649s```
