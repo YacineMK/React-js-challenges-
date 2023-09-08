@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-markdown
+
 
 Welcome to the React Learning Repository! This repository is designed to help you learn React by following FreeCodeCamp videos and provides solutions to the challenges presented in those videos.
 
