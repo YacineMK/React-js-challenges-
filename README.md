@@ -16,7 +16,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone ```https://github.com/YacineMK/React-js-challenges-.git```
+   git clone `https://github.com/YacineMK/React-js-challenges-.git`
 
     Install the necessary dependencies:
 
