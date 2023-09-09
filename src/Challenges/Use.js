@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 function Use() {
-    const [yes,yesState] = useState(["red","blue"]);
+    const [yes,yesState] = useState(["thing 1","thing 2"]);
     const func = () => {
         
         const newst = [...yes ,`thing ${yes.length + 1}` ];
